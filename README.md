@@ -190,7 +190,7 @@ application.properties
 ### User Registration
 
 ```html
-<img src="screenshots/User Registration.png" width="700"/>
+<img src="screenshots/User-Registration.png" width="700"/>
 ```
 
 ### Elections
@@ -202,7 +202,7 @@ application.properties
 ### Admin Dashboard
 
 ```html
-<img src="screenshots/Admin Dashboard.png" width="700"/>
+<img src="screenshots/Admin-Dashboard.png" width="700"/>
 ```
 
 ---
