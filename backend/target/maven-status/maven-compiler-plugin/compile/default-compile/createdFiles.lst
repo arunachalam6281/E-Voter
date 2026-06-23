@@ -1,0 +1,15 @@
+com\evoter\auth\entity\Role.class
+com\evoter\auth\dto\AuthResponse.class
+com\evoter\config\SecurityConfig.class
+com\evoter\auth\controller\AuthController.class
+com\evoter\auth\entity\User.class
+com\evoter\auth\dto\AuthResponse$AuthResponseBuilder.class
+com\evoter\auth\entity\User$UserBuilder.class
+com\evoter\auth\repository\UserRepository.class
+com\evoter\auth\security\JwtAuthFilter.class
+com\evoter\auth\dto\LoginRequest.class
+com\evoter\auth\service\AuthService.class
+com\evoter\auth\service\CustomUserDetailsService.class
+com\evoter\auth\security\JwtUtil.class
+com\evoter\auth\dto\RegisterRequest.class
+com\evoter\EvoterApplication.class
