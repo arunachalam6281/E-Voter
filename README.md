@@ -189,21 +189,15 @@ application.properties
 
 ### User Registration
 
-```html
 <img src="screenshots/User-Registration.png" width="700"/>
-```
 
 ### Elections
 
-```html
 <img src="screenshots/Elections.png" width="700"/>
-```
 
 ### Admin Dashboard
 
-```html
 <img src="screenshots/Admin-Dashboard.png" width="700"/>
-```
 
 ---
 
